@@ -14,7 +14,7 @@ dbus-python==1.2.18
 defer==1.0.6
 distro==1.7.0
 distro-info===1.1build1
-Django==4.1.2
+Django==4.1.7
 fastapi==0.85.0
 h11==0.14.0
 httplib2==0.20.2
